@@ -3,8 +3,8 @@
 ## Java project utilizing the NASA Mars Insights API to display weather information on mars 
 
 
-NASA’s InSight Mars lander records weather information on the surface of Mars at Elysium Planitia. A smooth plain near the Mars equator. The API is maintained and provided by NASA Jet Propulsion Laboratory and Cornell University. 
-Sensors on the spacecraft are temporarily turned off to conserve energy however the most recent recorded information is still avaible for use.
+NASA’s InSight Mars lander records weather information on the surface of Mars at Elysium Planitia (a smooth plain near the Mars equator). The API is maintained by NASA Jet Propulsion Laboratory at Cornell University. 
+Sensors on the spacecraft are temporarily turned off to conserve energy; however the most recent recorded information is still avaible for use.
 
 This API provides weather information data recorded by the spacecraft for the last seven available **Sols**. 
 
