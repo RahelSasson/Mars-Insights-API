@@ -13,6 +13,8 @@ A **Sol** is what a Martian day is called.
 Demo Gif: 
 ![Animation](https://github.com/RahelSasson/Mars-Insights-API/assets/96672758/e914ba6e-f2ae-47ec-bdb1-5c684ecba0e9)
 
+Downloadable .Jar file : [Mars.main.jar]
+
 API URL: https://mars.nasa.gov/rss/api/?feed=weather&category=insight_temperature&feedtype=json&ver=1.0
   
 API Key-Per Sol   Description
